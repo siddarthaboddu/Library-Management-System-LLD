@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "user.checkout.limit",
+  "type": "java.lang.String",
+  "description": "maximum user books checkout limit at once"
+}]}
